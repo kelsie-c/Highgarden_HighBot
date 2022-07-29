@@ -1,1 +1,9 @@
-# Highgarden_HighBot
+# HighBot for HighRealm
+
+## Description
+
+## Features
+
+## Contributors
+
+## License
