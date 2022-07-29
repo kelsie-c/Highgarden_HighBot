@@ -3,6 +3,7 @@
 ## Description
 
 ## Features
+- Custom Welcome Message
 
 ## Contributors
 
