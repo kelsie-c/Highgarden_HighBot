@@ -17,7 +17,7 @@ const client = new Client({ intents: intentList });
 
 client.once('ready', async () => {
     await mongoose.connect(
-        'mongodb+srv://madchky:uYKdZwSI25EBAKjz@cluster0.zfw9bji.mongodb.net/?retryWrites=true&w=majority', 
+        process.env.URI,
         {
             keepAlive: true
         })
